@@ -72,6 +72,6 @@ cd frontend
 npm run start
 ```
 
-#Your application should now be running!
-#Mtume za kabej😌
+Your application should now be running!  
+Mtume za kabej😌
 ```
